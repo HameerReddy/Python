@@ -1,2 +1,2 @@
-# Python-Learnings
-I am learning python and the practice files are stored here
+# Python
+Some assignments and codes on python.           
